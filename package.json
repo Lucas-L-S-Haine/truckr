@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Lucas-L-S-Haine/truckr/issues"
   },
-  "homepage": "https://github.com/Lucas-L-S-Haine/truckr#readme"
+  "homepage": "https://github.com/Lucas-L-S-Haine/truckr#readme",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
 }
