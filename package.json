@@ -1,0 +1,19 @@
+{
+  "name": "truckr",
+  "version": "0.1.0",
+  "description": "An easier way to use the Node.js driver on MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-L-S-Haine/truckr.git"
+  },
+  "author": "Lucas L. S. Haine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-L-S-Haine/truckr/issues"
+  },
+  "homepage": "https://github.com/Lucas-L-S-Haine/truckr#readme"
+}
