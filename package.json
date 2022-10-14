@@ -4,7 +4,7 @@
   "description": "An easier way to use the Node.js driver on MongoDB",
   "main": "index.js",
   "scripts": {
-    "prebuild": "npm run clean",
+    "prebuild": "yarn clean",
     "build": "tsc",
     "clean": "rm -rf lib/*",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,10 +16,11 @@
   "author": "Lucas L. S. Haine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lucas-L-S-Haine/truckr/issues"
+    "url": "https://github.com/llucasls/truckr/issues"
   },
-  "homepage": "https://github.com/Lucas-L-S-Haine/truckr#readme",
+  "homepage": "https://github.com/llucasls/truckr#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "mongodb": "^4.7.0"
   },
   "devDependencies": {
