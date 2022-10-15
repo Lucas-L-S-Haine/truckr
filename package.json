@@ -2,7 +2,7 @@
   "name": "truckr",
   "version": "0.1.0",
   "description": "An easier way to use the Node.js driver on MongoDB",
-  "main": "index.js",
+  "main": "lib/index.js",
   "type": "commonjs",
   "scripts": {
     "prebuild": "yarn clean",
