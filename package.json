@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/llucasls/truckr#readme",
   "dependencies": {
+    "chalk": "^5.1.2",
     "dotenv": "^16.0.1",
     "mongodb": "^4.7.0"
   },
