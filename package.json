@@ -5,6 +5,8 @@
   "main": "lib/index.js",
   "type": "commonjs",
   "scripts": {
+    "prestart": "yarn build",
+    "start": "node .",
     "prebuild": "yarn clean",
     "build": "tsc",
     "clean": "rm -rf lib/*",
